@@ -28,6 +28,10 @@ beam-fea-solver/
 │── outputs/
 │   └── FEA_Report.pdf
 
+🔐 Environment Setup:
+Create a .env file:- OPENAI_API_KEY=your_api_key_here
+
+▶️ Run Application: streamlit run app.py
 
 Author Insight: 
 This project demonstrates the integration of FEA + Python + AI, enabling faster and smarter engineering workflows.
