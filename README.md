@@ -1,7 +1,7 @@
 # Advanced-FEA-Solver-with-AI-Reporting
 Developed a Python + Streamlit-based beam FEA solver for cantilever and simply supported cases. Implemented stress, strain, deflection, and von Mises calculations with nonlinear plasticity and strain hardening. Automated PDF reporting and integrated AI-based insights for design validation and failure assessment.
 
-🎯 Key Features
+🎯 Key Features:
 ✅ Beam analysis using classical FEA (Euler–Bernoulli theory)
 ✅ Supports:
 Cantilever beam
@@ -19,7 +19,7 @@ Strain hardening (power law)
 ✅ AI-based engineering interpretation (LLM integration)
 
 
-Project Structure
+Project Structure: 
 beam-fea-solver/
 │── app.py
 │── requirements.txt
@@ -29,13 +29,13 @@ beam-fea-solver/
 │   └── FEA_Report.pdf
 
 
-Author Insight
+Author Insight: 
 This project demonstrates the integration of FEA + Python + AI, enabling faster and smarter engineering workflows.
 
-Author
+Author:
 Sushil Muli
 14+ years experience in Automotive CAE (Crash & Structural)
 Transitioning into AIML-driven engineering solutions
 
-If you like this project
+If you like this project:
 Give it a ⭐ on GitHub and connect!
